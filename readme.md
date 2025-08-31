@@ -37,11 +37,11 @@
 ## 📈 Dashboard Preview
 Power BI dashboard brings these insights to life 👇  
 
-![Dashboard](visuals/powerbi_dashboard.png)  
+![Dashboard](a.png)  
 
 ---
 
 ## 🚀 How to Reproduce
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/Household-Energy-Analysis.git
+   git clone https://github.com/NIKHIL20001017076/Household-Energy-Analysis.git
