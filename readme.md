@@ -37,7 +37,7 @@
 ## 📈 Dashboard Preview
 Power BI dashboard brings these insights to life 👇  
 
-![Dashboard](a.png)  
+![Dashboard](dashboard.png)  
 
 ---
 
